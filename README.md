@@ -2,7 +2,7 @@
 
 > Higher-kinded data (HKD) takes your existing data classes and wraps each field in a higher-kinded type, allowing you to do some funky things. I have recently seen a few presentations of this which piqued my interest sufficiently to try it out for myself. Given Scala 3 is just around the corner, I will use this as a chance to also try that out.
 > 
-> [Charlibot post: Higher-kinded data in Scala 3]()
+> [Charlibot post: Higher-kinded data in Scala 3](https://charlibot.github.io/posts/hkd/)
 
 This is the accompanying repo to the post. All code is in `Person.scala`.
 
