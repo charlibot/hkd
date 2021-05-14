@@ -4,3 +4,7 @@ target/
 .metals/
 .vscode/
 metals.sbt
+
+# Ignore my local files apart from Person.scala
+*.scala
+!Person.scala
